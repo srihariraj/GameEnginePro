@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mouse Mapper</string>
+    <string name="accessibility_description">Maps external mouse buttons and wheel input to touch gestures configured by the user.</string>
+</resources>
